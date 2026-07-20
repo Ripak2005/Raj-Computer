@@ -6,7 +6,7 @@ type MediaFrameProps = {
   src: string
   alt: string
   className?: string
-  overlay?: string
+  overlay?: React.ReactNode
 }
 
 export function MediaFrame({ src, alt, className, overlay }: MediaFrameProps) {
