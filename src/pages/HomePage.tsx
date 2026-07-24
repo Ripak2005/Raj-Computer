@@ -81,7 +81,7 @@ export default function HomePage() {
             {/* Hero Card Container */}
             <div className="overflow-hidden rounded-3xl border border-white/10 bg-slate-900/80 shadow-soft backdrop-blur-sm">
               <MediaFrame
-                src={'https://drive.google.com/file/d/1aLFuPYvkYn5JbpdbBcBitw1OQlTlz2-u/view?usp=sharing'}
+                src={'https://drive.google.com/file/d/1PYzjJRZ_qEAnJnNzGt92iiAIO5BRfjAE/view?usp=sharing'}
                 alt={business.name}
               />
               <div className="border-t border-white/10 bg-slate-950/90 p-4 text-center">
