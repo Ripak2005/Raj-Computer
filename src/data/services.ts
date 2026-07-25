@@ -61,7 +61,7 @@ export const services: Service[] = [
     },
     icon: 'copy',
     image: images.photocopy,
-    price: 'From ₹2/page',
+    price: 'From ₹1/page',
     category: { en: 'Print & Copy', hi: 'प्रिंट और कॉपी' },
     slug: 'photocopy-print',
     highlights: { en: ['Color print', 'Bulk copy', 'Binding support'], hi: ['कलर प्रिंट', 'बल्क कॉपी', 'बाइंडिंग सहायता'] },
