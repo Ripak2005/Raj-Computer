@@ -125,7 +125,7 @@ export const translations = {
       panelTitle: 'Quick action panel',
       panelBody: 'Use the buttons below to contact the shop or continue browsing the site before visiting.',
       visitNoteTitle: 'Visit note',
-      visitNoteBody: 'Replace the contact details, map link, and social links inside src/data/business.ts when you are ready to publish the live version.',
+      visitNoteBody: 'Your one-stop destination for printing and digital services. Thank you for choosing us!',
       viewServices: 'View services',
     },
     notFound: {
@@ -262,7 +262,7 @@ export const translations = {
       panelTitle: 'त्वरित कार्रवाई पैनल',
       panelBody: 'नीचे दिए गए बटनों से दुकान से संपर्क करें या आने से पहले वेबसाइट पर आगे देखें।',
       visitNoteTitle: 'महत्वपूर्ण नोट',
-      visitNoteBody: 'लाइव साइट प्रकाशित करने से पहले src/data/business.ts में contact details, map link, और social links बदल दें।',
+      visitNoteBody: 'प्रिंटिंग एवं डिजिटल सेवाओं के लिए आपका विश्वसनीय केंद्र। हमें चुनने के लिए धन्यवाद!',
       viewServices: 'सेवाएँ देखें',
     },
     notFound: {
