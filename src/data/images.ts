@@ -18,9 +18,9 @@ export const images = {
   onlineService: 'https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=900&fit=crop',
   team1: 'https://drive.google.com/file/d/1IqhaF0sq371Bc3RUiVMJuOvBrylZuXX7/view?usp=sharingp',
   team2: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=1500&fit=crop',
-  testimonial1: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=1200&fit=crop',
-  testimonial2: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=1200&h=1200&fit=crop',
-  testimonial3: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=1200&h=1200&fit=crop',
+  testimonial1: 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?w=1200&h=1200&fit=crop',
+  testimonial2: 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?w=1200&h=1200&fit=crop',
+  testimonial3: 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?w=1200&h=1200&fit=crop',
   logo: 'https://drive.google.com/file/d/1zgXZYNMxBIw-XBFhaknsNXxAPKBRbEo7/view?usp=sharing',
   favicon: '',
 } as const
